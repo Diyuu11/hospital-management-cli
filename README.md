@@ -36,4 +36,4 @@ Make sure you have these libraries installed before running the application.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/hospital-management-system.git
+   https://github.com/Diyuu11/hospital-management-cli/tree/main
